@@ -11,6 +11,7 @@ body{
 }
 
 :root{
+    --white: white;
     --BG: #FC0A7E;
     --GR: 'GR', sans-serif;
     --GR: 'GB', sans-serif;
