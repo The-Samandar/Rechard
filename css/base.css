@@ -8,13 +8,14 @@
 
 body{
     background: linear-gradient(287.15deg, #450E4B 0%, #3C0C41 24.48%, rgba(207, 0, 99, 0) 100%), #CF0063;
+    /* height: 100vh; */
 }
 
 :root{
     --white: white;
     --BG: #FC0A7E;
     --GR: 'GR', sans-serif;
-    --GR: 'GB', sans-serif;
+    --GB: 'GB', sans-serif;
 }
 
 .container{
